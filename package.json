@@ -1,0 +1,13 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "this is practicing nodejs implementing chatbot using openai , npm-packages  and other libraries",
+  "main": "index.js",
+  "scripts": {
+    "client":"",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "girishladha-stanleyfoxo",
+  "license": "MIT"
+}
